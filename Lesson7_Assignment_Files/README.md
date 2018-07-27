@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+27 July 2018
 
 ### Student Name:  
-(First and Last Name)
+Diego Faverio
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this exercise, we were building an application that displays the elements containing a recipe’s ingredients and instructions when a user clicks the associated headers. We used jQuery to respond to the users’ requests.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
-
+https://dlf16b.github.io/lesson7_jquery/
+ 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Accessd elements using jQuery syntax
+2. Used built-in jQuery syntax
+3. Used JavaScript Console Pane in Chrome
 
